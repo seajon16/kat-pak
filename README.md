@@ -65,7 +65,7 @@ As a disclaimer, this isn't a perfect representation of the modded Minecraft exp
 If you were to use a different, properly maintained pack, like any from [the FTB Team](https://feed-the-beast.com/), you'd have a much cleaner experience.
 This is just me throwing together some packs that I think play nicely with each other.
 
-If you're using my server to play this pack, I also have [these datapacks](https://vanillatweaks.net/share#KK8V5D) from [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) installed.
+If you're using my server to play this pack, I also have [these datapacks](https://vanillatweaks.net/share#MmNQ7l) from [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) installed.
 You don't need to install these yourself, since they're all server-side, but I'm leaving there here in case you want to learn more about them:
 * Experimental
   * Confetti creepers
@@ -74,10 +74,10 @@ You don't need to install these yourself, since they're all server-side, but I'm
 * Mobs
   * Villager death messages
   * Double shulker shells
+  * More mob heads
   * Dragon drops
 * Items
   * Player head drops
-  * Armored elytra
 * Survival
   * Villager workstation highlights
   * Multiplayer sleep
@@ -87,9 +87,9 @@ You don't need to install these yourself, since they're all server-side, but I'm
   * Unlock all recipes
   * Cauldron concrete
 
-In addition, I have [the end city datapack](https://www.planetminecraft.com/data-pack/end-city-for-better-end-forge-port/) for the Better End mod.
+In addition, I would have [the end city datapack](https://www.planetminecraft.com/data-pack/end-city-for-better-end-forge-port/) for the Better End mod, but it's only up to 1.17
 
 ## Notes for Server Admins
 
 * To use Biomes O' Plenty, you need to set the `level-type` in `server.properties` to `biomesoplenty`
-* I highly recommend [FTB Backups](https://media.forgecdn.net/files/3038/811/ftb-backups-2.1.1.6.jar)
+* I highly recommend [FTB Backups](https://media.forgecdn.net/files/3038/811/ftb-backups-2.1.1.6.jar), although it's not available for 1.18 yet
