@@ -1,4 +1,4 @@
-# Kat's Pak v1.0
+# Kat's Pak v1.1
 
 This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 
@@ -8,7 +8,7 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 * This should make a `mods` folder in your `.minecraft` folder (which is usually in `C:\Users\{User}\AppData\Roaming`), but if it doesn't, start up the Minecraft launcher, select the new forge profile, and run the game.
 Once it loads, close it, and the `mods` folder should now be present.
 * Lastly, you need the mods.
-Download [the zip in this repo](./kat-pak-v1.0.zip) and unzip the contents into your `mods` folder. It already includes [OptiFine](https://optifine.net/downloads); no need to run any `jar` files.
+Download [the zip in this repo](./kat-pak-v1.1.zip) and unzip the contents into your `mods` folder. It already includes [OptiFine](https://optifine.net/downloads); no need to run any `jar` files.
 * Launch Minecraft, and you should be good to go.
 
 ## Mod List
@@ -17,12 +17,13 @@ Download [the zip in this repo](./kat-pak-v1.0.zip) and unzip the contents into 
 * [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 * [AmbientSounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 * [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
-* [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+* [BetterEnd*](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 * [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 * [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-* [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
+* [Essentials*](https://www.curseforge.com/minecraft/mc-mods/essentials)
 * [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
 * [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
@@ -51,7 +52,7 @@ Download [the zip in this repo](./kat-pak-v1.0.zip) and unzip the contents into 
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 * [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
-### Dependencies
+## Mod Dependencies
 
 * [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 * [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
