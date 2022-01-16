@@ -8,7 +8,7 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 * This should make a `mods` folder in your `.minecraft` folder (which is usually in `C:\Users\{User}\AppData\Roaming`), but if it doesn't, start up the Minecraft launcher, select the new forge profile, and run the game.
 Once it loads, close it, and the `mods` folder should now be present.
 * Lastly, you need the mods.
-Download [the zip in this repo](./peoples-pack-v1.6.zip) and unzip the contents into your `mods` folder. It already includes [OptiFine](https://optifine.net/downloads); no need to run any `jar` files.
+Download [the zip in this repo](./kat-pak-v1.0.zip) and unzip the contents into your `mods` folder. It already includes [OptiFine](https://optifine.net/downloads); no need to run any `jar` files.
 * Launch Minecraft, and you should be good to go.
 
 ## Mod List
