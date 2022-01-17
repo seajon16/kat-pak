@@ -19,6 +19,7 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 ### If you have v1.1 installed currently
 
 * Download [the patch zip in this repo](./kat-pak-patch-v1.2.zip) and unzip the contents into your `mods` folder.
+* **Note:** If you look at the server in your server list and see a message saying "Incompatible FML modded server: Server has additional mods that may be needed on the client", that's because I have a few extra server-side utility mods like `tpa`. You shouldn't run into any problems connecting to the server.
 
 ### If you have never installed this pack before
 
@@ -28,6 +29,7 @@ Once it loads, close it, and the `mods` folder should now be present.
 * Lastly, you need the mods.
 Download [the main zip in this repo](./kat-pak-v1.2.zip) and unzip the contents into your `mods` folder. It already includes [OptiFine](https://optifine.net/downloads); no need to run any `jar` files.
 * Launch Minecraft, and you should be good to go.
+* **Note:** If you look at the server in your server list and see a message saying "Incompatible FML modded server: Server has additional mods that may be needed on the client", that's because I have a few extra server-side utility mods like `tpa`. You shouldn't run into any problems connecting to the server.
 
 ## Mod List
 
