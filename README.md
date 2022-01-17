@@ -5,6 +5,8 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 ## What's new in v1.2?
 
 * New mods:
+  * [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
+  * [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
   * [Create](https://www.curseforge.com/minecraft/mc-mods/create)
   * [MultiBeds](https://www.curseforge.com/minecraft/mc-mods/multibeds)
   * [Music Maker Mod](https://www.curseforge.com/minecraft/mc-mods/music-maker-mod)
@@ -13,11 +15,14 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
   * [Snowy Spirit](https://www.curseforge.com/minecraft/mc-mods/snowy-spirit)
   * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
   * [ShetiPhianCore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
+* Updates to mods:
+  * Farmer's delight version bump (see [here](https://github.com/vectorwing/FarmersDelight/issues/379) for why)
 
 ## Installation
 
 ### If you have v1.1 installed currently
 
+* Remove `FarmersDelight-1.18.1-1.0.1.jar` from your `mods` folder.
 * Download [the patch zip in this repo](./kat-pak-patch-v1.2.zip) and unzip the contents into your `mods` folder.
 * **Note:** If you look at the server in your server list and see a message saying "Incompatible FML modded server: Server has additional mods that may be needed on the client", that's because I have a few extra server-side utility mods like `tpa`. You shouldn't run into any problems connecting to the server.
 
@@ -40,11 +45,13 @@ Download [the main zip in this repo](./kat-pak-v1.2.zip) and unzip the contents 
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 * [Aquaculture 2*](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [BetterEnd*](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
+* [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
 * [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 * [CC: Tweaked*](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 * [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 * [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+* [Create Crafts & Additions*](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 * [Create*](https://www.curseforge.com/minecraft/mc-mods/create)
 * [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 * [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
