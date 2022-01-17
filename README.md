@@ -20,7 +20,13 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 
 ## Installation
 
-### If you have v1.1 installed currently
+### If you have v1.1 installed currently and want to be safe
+
+* Delete the contents of your `mods` folder.
+* Download [the main zip in this repo](./kat-pak-v1.2.zip) and unzip the contents into your `mods` folder.
+* **Note:** If you look at the server in your server list and see a message saying "Incompatible FML modded server: Server has additional mods that may be needed on the client", that's because I have a few extra server-side utility mods like `tpa`. You shouldn't run into any problems connecting to the server.
+
+### If you have v1.1 installed currently and don't want to download the whole pack again
 
 * Remove `FarmersDelight-1.18.1-1.0.1.jar` from your `mods` folder.
 * Download [the patch zip in this repo](./kat-pak-patch-v1.2.zip) and unzip the contents into your `mods` folder.
