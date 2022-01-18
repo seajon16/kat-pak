@@ -37,6 +37,7 @@ This is a bunch of random, lighter-weight Minecraft Forge mods for epic gamers.
 * Download and run [this launcher](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.1-39.0.36/forge-1.18.1-39.0.36-installer.jar); you'll want a client installation.
 * This should make a `mods` folder in your `.minecraft` folder (which is usually in `C:\Users\{User}\AppData\Roaming`), but if it doesn't, start up the Minecraft launcher, select the new forge profile, and run the game.
 Once it loads, close it, and the `mods` folder should now be present.
+* Make sure the `mods` folder is completely empty.
 * Lastly, you need the mods.
 Download [the main zip in this repo](./kat-pak-v1.2.zip) and unzip the contents into your `mods` folder. It already includes [OptiFine](https://optifine.net/downloads); no need to run any `jar` files.
 * Launch Minecraft, and you should be good to go.
